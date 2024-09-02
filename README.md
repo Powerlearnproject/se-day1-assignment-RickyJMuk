@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15617838&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
@@ -191,6 +192,4 @@ Context: Provide relevant context to help the AI understand the prompt and gener
 Instructional Phrasing: Use specific instructions or questions to guide the AI's output, such as "Write a poem about..." or "Explain the concept of...".
 Negative Prompts: If necessary, specify what you don't want the AI to include in its response.
 Iterative Refinement: Experiment with different prompts and refine them based on the AI's output.
-
-
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Adaptability: Prompt engineering allows AI models to be more adaptable to a wide range of queries, from simple to highly technical.
